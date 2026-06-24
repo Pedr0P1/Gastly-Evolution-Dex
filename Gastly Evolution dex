@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Gastly Evolution Dex</title>
+
+<link rel="stylesheet" href="s">
+
+</head>
+
+<body>
+
+    <section>
+    <h1>Gastly</h1>
+
+    <style>
+        div{
+            height: 30vh;
+            display: flex;
+            align-items: last baseline;
+            justify-content: last baseline;
+        }
+    </style>
+
+    
+      <img src="img/092.png" height="250"  width="250">
+      <div><img src="img/GastlyS.png" height="250"  width="250"></div> 
+      <img src="img/GHGF.png" height="280" width="350" class="img-pokemon">
+
+<style>
+.img-pokemon {
+    position: absolute;
+    top: 380px;
+    left: 340px;
+}
+</style>
+
+    <h2>Informações Básicas</h2>
+    <ul>
+        <li><strong>Número da Pokédex:</strong> #092</li>
+        <li><strong>Tipo:</strong> Fantasma / Veneno</li>
+        <li><strong>Altura:</strong> 1,3 m</li>
+        <li><strong>Peso:</strong> 0,1 kg</li>
+        <li><strong>Categoria:</strong> Pokémon Gás</li>
+    </ul>
+
+    <h2>Descrição</h2>
+    <p>
+        Gastly é um Pokémon dos tipos Fantasma e Veneno introduzido na primeira geração.
+        
+        Seu corpo é formado principalmente por gás venenoso, permitindo que ele se esconda
+        facilmente na escuridão e assuste seus adversários.
+    </p>
+
+    </section>
+
+    <h2>Evoluções</h2>
+    <ol>
+        <li>Gastly</li>
+        <li>Haunter</li>
+        <li>Gengar</li>
+    </ol>
+</section>
+
+    <section>
+    <h2>Ataques do Gastly</h2>
+
+    <p>
+        Gastly aprende diversos golpes dos tipos Fantasma e Veneno ao subir de nível,
+        além de poder aprender outros ataques por meio de TMs e métodos especiais.
+    </p>
+
+    <table border="1" cellpadding="8">
+        <thead>
+            <tr>
+                <th>Ataque</th>
+                <th>Tipo</th>
+                <th>Categoria</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Lick</td>
+                <td>Fantasma</td>
+                <td>Físico</td>
+            </tr>
+            <tr>
+                <td>Night Shade</td>
+                <td>Fantasma</td>
+                <td>Especial</td>
+            </tr>
+            <tr>
+                <td>Hex</td>
+                <td>Fantasma</td>
+                <td>Especial</td>
+            </tr>
+            <tr>
+                <td>Shadow Ball</td>
+                <td>Fantasma</td>
+                <td>Especial</td>
+            </tr>
+            <tr>
+                <td>Confuse Ray</td>
+                <td>Fantasma</td>
+                <td>Status</td>
+            </tr>
+            <tr>
+                <td>Curse</td>
+                <td>Fantasma</td>
+                <td>Status</td>
+            </tr>
+            <tr>
+                <td>Poison Gas</td>
+                <td>Veneno</td>
+                <td>Status</td>
+            </tr>
+            <tr>
+                <td>Venoshock</td>
+                <td>Veneno</td>
+                <td>Especial</td>
+            </tr>
+            <tr>
+                <td>Sludge Bomb</td>
+                <td>Veneno</td>
+                <td>Especial</td>
+            </tr>
+            <tr>
+                <td>Hypnosis</td>
+                <td>Psíquico</td>
+                <td>Status</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        <strong>Observação:</strong> Alguns golpes podem variar dependendo da geração
+        do jogo Pokémon e da forma como o Gastly os aprende.
+    </p>
+
+
+    <h2>Jogos em que Gastly aparece</h2>
+
+    <table border="1" cellpadding="8" cellspacing="0">
+    <tr>
+        <th>Jogo</th>
+        <th>Videogame</th>
+    </tr>
+    <tr><td>Pokémon Red</td><td>Game Boy</td></tr>
+    <tr><td>Pokémon Blue</td><td>Game Boy</td></tr>
+    <tr><td>Pokémon Yellow</td><td>Game Boy</td></tr>
+    <tr><td>Pokémon Gold</td><td>Game Boy Color</td></tr>
+    <tr><td>Pokémon Silver</td><td>Game Boy Color</td></tr>
+    <tr><td>Pokémon Crystal</td><td>Game Boy Color</td></tr>
+    <tr><td>Pokémon Ruby</td><td>Game Boy Advance</td></tr>
+    <tr><td>Pokémon Sapphire</td><td>Game Boy Advance</td></tr>
+    <tr><td>Pokémon Emerald</td><td>Game Boy Advance</td></tr>
+    <tr><td>Pokémon FireRed</td><td>Game Boy Advance</td></tr>
+    <tr><td>Pokémon LeafGreen</td><td>Game Boy Advance</td></tr>
+    <tr><td>Pokémon Diamond</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon Pearl</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon Platinum</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon HeartGold</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon SoulSilver</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon Black</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon White</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon Black 2</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon White 2</td><td>Nintendo DS</td></tr>
+    <tr><td>Pokémon X</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Y</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Omega Ruby</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Alpha Sapphire</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Sun</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Moon</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Ultra Sun</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Ultra Moon</td><td>Nintendo 3DS</td></tr>
+    <tr><td>Pokémon Let's Go, Pikachu!</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Let's Go, Eevee!</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Sword</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Shield</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Brilliant Diamond</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Shining Pearl</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Legends: Arceus</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Scarlet</td><td>Nintendo Switch</td></tr>
+    <tr><td>Pokémon Violet</td><td>Nintendo Switch</td></tr>
+</table>
+    
+<a href="Haunter.html">Haunter ➡️ </a>
+
+</body>
+
+</html>
+
